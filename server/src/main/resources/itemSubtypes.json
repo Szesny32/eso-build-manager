@@ -1,0 +1,422 @@
+[
+  {
+    "subtype_name": "Axe",
+    "category_name": "Weapons",
+    "type_name": "One-Handed Melee"
+  },
+  {
+    "subtype_name": "Mace",
+    "category_name": "Weapons",
+    "type_name": "One-Handed Melee"
+  },
+  {
+    "subtype_name": "Sword",
+    "category_name": "Weapons",
+    "type_name": "One-Handed Melee"
+  },
+  {
+    "subtype_name": "Dagger",
+    "category_name": "Weapons",
+    "type_name": "One-Handed Melee"
+  },
+  {
+    "subtype_name": "Axe",
+    "category_name": "Weapons",
+    "type_name": "Two-Handed Melee"
+  },
+  {
+    "subtype_name": "Mace",
+    "category_name": "Weapons",
+    "type_name": "Two-Handed Melee"
+  },
+  {
+    "subtype_name": "Sword",
+    "category_name": "Weapons",
+    "type_name": "Two-Handed Melee"
+  },
+  {
+    "subtype_name": "Inferno Staff",
+    "category_name": "Weapons",
+    "type_name": "Destruction Staff"
+  },
+  {
+    "subtype_name": "Ice Staff",
+    "category_name": "Weapons",
+    "type_name": "Destruction Staff"
+  },
+  {
+    "subtype_name": "Lightning Staff",
+    "category_name": "Weapons",
+    "type_name": "Destruction Staff"
+  },
+  {
+    "subtype_name": "Chest",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Chest",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Chest",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Feet",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Feet",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Feet",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Hands",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Hands",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Hands",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Head",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Head",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Head",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Legs",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Legs",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Legs",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Shoulders",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Shoulders",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Shoulders",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Waist",
+    "category_name": "Apparel",
+    "type_name": "Light Armor"
+  },
+  {
+    "subtype_name": "Waist",
+    "category_name": "Apparel",
+    "type_name": "Medium Armor"
+  },
+  {
+    "subtype_name": "Waist",
+    "category_name": "Apparel",
+    "type_name": "Heavy Armor"
+  },
+  {
+    "subtype_name": "Ring",
+    "category_name": "Jewelery",
+    "type_name": null
+  },
+  {
+    "subtype_name": "Neck",
+    "category_name": "Jewelery",
+    "type_name": null
+  },
+  {
+    "subtype_name": "Furnishing Sketch",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Blueprint",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Design",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Formula",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Praxis",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Pattern",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Furnishing Diagram",
+    "category_name": "Consumables",
+    "type_name": "Furnishing Plan"
+  },
+  {
+    "subtype_name": "Motif Book",
+    "category_name": "Consumables",
+    "type_name": "Motif"
+  },
+  {
+    "subtype_name": "Motif Chapter",
+    "category_name": "Consumables",
+    "type_name": "Motif"
+  },
+  {
+    "subtype_name": "Holiday Writ",
+    "category_name": "Consumables",
+    "type_name": "Master Writ"
+  },
+  {
+    "subtype_name": "Master Writ",
+    "category_name": "Consumables",
+    "type_name": "Master Writ"
+  },
+  {
+    "subtype_name": "Raw Material",
+    "category_name": "Materials",
+    "type_name": "Blacksmithing"
+  },
+  {
+    "subtype_name": "Raw Material",
+    "category_name": "Materials",
+    "type_name": "Clothing"
+  },
+  {
+    "subtype_name": "Raw Material",
+    "category_name": "Materials",
+    "type_name": "Woodworking"
+  },
+  {
+    "subtype_name": "Material",
+    "category_name": "Materials",
+    "type_name": "Blacksmithing"
+  },
+  {
+    "subtype_name": "Material",
+    "category_name": "Materials",
+    "type_name": "Clothing"
+  },
+  {
+    "subtype_name": "Material",
+    "category_name": "Materials",
+    "type_name": "Woodworking"
+  },
+  {
+    "subtype_name": "Temper",
+    "category_name": "Materials",
+    "type_name": "Blacksmithing"
+  },
+  {
+    "subtype_name": "Tannin",
+    "category_name": "Materials",
+    "type_name": "Clothing"
+  },
+  {
+    "subtype_name": "Poison Solvent",
+    "category_name": "Materials",
+    "type_name": "Alchemy"
+  },
+  {
+    "subtype_name": "Potion Solvent",
+    "category_name": "Materials",
+    "type_name": "Alchemy"
+  },
+  {
+    "subtype_name": "Reagent",
+    "category_name": "Materials",
+    "type_name": "Alchemy"
+  },
+  {
+    "subtype_name": "Plating",
+    "category_name": "Materials",
+    "type_name": "Jewelery Crafting"
+  },
+  {
+    "subtype_name": "Raw Plating",
+    "category_name": "Materials",
+    "type_name": "Jewelery Crafting"
+  },
+  {
+    "subtype_name": "Resin",
+    "category_name": "Materials",
+    "type_name": "Woodworking"
+  },
+  {
+    "subtype_name": "Style Material",
+    "category_name": "Materials",
+    "type_name": "Style Material"
+  },
+  {
+    "subtype_name": "Raw Material",
+    "category_name": "Materials",
+    "type_name": "Style Material"
+  },
+  {
+    "subtype_name": "Rare Ingredients",
+    "category_name": "Materials",
+    "type_name": "Provisioning"
+  },
+  {
+    "subtype_name": "Drink Ingredients",
+    "category_name": "Materials",
+    "type_name": "Provisioning"
+  },
+  {
+    "subtype_name": "Food Ingredients",
+    "category_name": "Materials",
+    "type_name": "Provisioning"
+  },
+  {
+    "subtype_name": "Aspect Runestone",
+    "category_name": "Materials",
+    "type_name": "Enchanting"
+  },
+  {
+    "subtype_name": "Potency Runestone",
+    "category_name": "Materials",
+    "type_name": "Enchanting"
+  },
+  {
+    "subtype_name": "Essence Runestone",
+    "category_name": "Materials",
+    "type_name": "Enchanting"
+  },
+  {
+    "subtype_name": "Jewelery Trait",
+    "category_name": "Materials",
+    "type_name": "Trait Material"
+  },
+  {
+    "subtype_name": "Raw Trait",
+    "category_name": "Materials",
+    "type_name": "Trait Material"
+  },
+  {
+    "subtype_name": "Armor Trait",
+    "category_name": "Materials",
+    "type_name": "Trait Material"
+  },
+  {
+    "subtype_name": "Weapon Trait",
+    "category_name": "Materials",
+    "type_name": "Trait Material"
+  },
+  {
+    "subtype_name": "One-Handed Melee",
+    "category_name": "Companion Equipment",
+    "type_name": "Weapons"
+  },
+  {
+    "subtype_name": "Two-Handed Melee",
+    "category_name": "Companion Equipment",
+    "type_name": "Weapons"
+  },
+  {
+    "subtype_name": "Bow",
+    "category_name": "Companion Equipment",
+    "type_name": "Weapons"
+  },
+  {
+    "subtype_name": "Destruction Staff",
+    "category_name": "Companion Equipment",
+    "type_name": "Weapons"
+  },
+  {
+    "subtype_name": "Restoration Staff",
+    "category_name": "Companion Equipment",
+    "type_name": "Weapons"
+  },
+  {
+    "subtype_name": "Light Armor",
+    "category_name": "Companion Equipment",
+    "type_name": "Armor"
+  },
+  {
+    "subtype_name": "Medium Armor",
+    "category_name": "Companion Equipment",
+    "type_name": "Armor"
+  },
+  {
+    "subtype_name": "Heavy Armor",
+    "category_name": "Companion Equipment",
+    "type_name": "Armor"
+  },
+  {
+    "subtype_name": "Shield",
+    "category_name": "Companion Equipment",
+    "type_name": "Armor"
+  },
+  {
+    "subtype_name": "Treasure Map",
+    "category_name": "Miscellaneous",
+    "type_name": "Trophy"
+  },
+  {
+    "subtype_name": "Recipe Fragment",
+    "category_name": "Miscellaneous",
+    "type_name": "Trophy"
+  },
+  {
+    "subtype_name": "Scroll",
+    "category_name": "Miscellaneous",
+    "type_name": "Trophy"
+  },
+  {
+    "subtype_name": "Runebox Fragment",
+    "category_name": "Miscellaneous",
+    "type_name": "Trophy"
+  },
+  {
+    "subtype_name": "Other Trophies",
+    "category_name": "Miscellaneous",
+    "type_name": "Trophy"
+  }
+]

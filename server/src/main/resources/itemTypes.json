@@ -1,0 +1,222 @@
+[
+  {
+    "type_name": "All Weapons",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "One-Handed Melee",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "Two-Handed Melee",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "Bow",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "Destruction Staff",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "Restoration Staff",
+    "category_name": "Weapons"
+  },
+  {
+    "type_name": "All Apparel",
+    "category_name": "Apparel"
+  },
+  {
+    "type_name": "Light Armor",
+    "category_name": "Apparel"
+  },
+  {
+    "type_name": "Medium Armor",
+    "category_name": "Apparel"
+  },
+  {
+    "type_name": "Heavy Armor",
+    "category_name": "Apparel"
+  },
+  {
+    "type_name": "Shield",
+    "category_name": "Apparel"
+  },
+  {
+    "type_name": "All Consumables",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Food",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Food Recipe",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Drink",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Drink Recipe",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Potion",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Poison",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Motif",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Furnishing Plan",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Master Writ",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Container",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Alliance War Repair",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "Miscellaneous",
+    "category_name": "Consumables"
+  },
+  {
+    "type_name": "All Materials",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Blacksmithing",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Clothing",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Woodworking",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Jewelery Crafting",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Alchemy",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Enchanting",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Provisioning",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Style Material",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Trait Material",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "Furnishing Material",
+    "category_name": "Materials"
+  },
+  {
+    "type_name": "All Glyphs",
+    "category_name": "Glyphs"
+  },
+  {
+    "type_name": "Weapon Glyph",
+    "category_name": "Glyphs"
+  },
+  {
+    "type_name": "Armor Glyph",
+    "category_name": "Glyphs"
+  },
+  {
+    "type_name": "Jewelery Glyph",
+    "category_name": "Glyphs"
+  },
+  {
+    "type_name": "All Furnishings",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "Crafting Station",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "Target Dummy",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "Lightning",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "Seating",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "Other Furnishings",
+    "category_name": "Furnishings"
+  },
+  {
+    "type_name": "All Companion Equipment",
+    "category_name": "Companion Equipment"
+  },
+  {
+    "type_name": "Weapons",
+    "category_name": "Companion Equipment"
+  },
+  {
+    "type_name": "Armor",
+    "category_name": "Companion Equipment"
+  },
+  {
+    "type_name": "Jewelery",
+    "category_name": "Companion Equipment"
+  },
+  {
+    "type_name": "Soul Gem",
+    "category_name": "Miscellaneous"
+  },
+  {
+    "type_name": "Lure",
+    "category_name": "Miscellaneous"
+  },
+  {
+    "type_name": "Tool",
+    "category_name": "Miscellaneous"
+  },
+  {
+    "type_name": "Siege",
+    "category_name": "Miscellaneous"
+  },
+  {
+    "type_name": "Trophy",
+    "category_name": "Miscellaneous"
+  },
+  {
+    "type_name": "Tabard",
+    "category_name": "Miscellaneous"
+  }
+]
